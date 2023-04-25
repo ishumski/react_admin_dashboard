@@ -1,10 +1,11 @@
 import React from 'react';
+import './App.css'
 
 function App() {
 
   return (
-    <div className="App">
-      <h1>React Admin Dashbooard</h1>
+    <div>
+      <h1 className='underline text-3xl'>React Admin Dashbooard</h1>
     </div>
   );
 }
